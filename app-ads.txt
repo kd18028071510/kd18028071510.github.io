@@ -1,4 +1,4 @@
-OWNERDOMAIN=yan18675857172.github.io
+OWNERDOMAIN=kd18028071510.github.io
 google.com, pub-8093530735480434, DIRECT, f08c47fec0942fa0
 ironsrc.com, 443583, Direct
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
